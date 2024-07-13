@@ -3,6 +3,7 @@ title: Você comete este erro no Left Join?
 published: false
 description: teste
 tags: sql
+id: 1922342
 ---
 
 # Após 2 anos como Engenheiro de Dados, eis minhas dicas para quem está iniciando
