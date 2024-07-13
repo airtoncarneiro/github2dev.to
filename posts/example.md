@@ -15,4 +15,4 @@ Add some text here and there!
 
 ![and some pictures too](./assets/cat.jpg)
 
-v.0.3
+v.0.4
