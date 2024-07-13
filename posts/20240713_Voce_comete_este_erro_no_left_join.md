@@ -1,3 +1,10 @@
+---
+title: Você comete este erro no Left Join?
+published: false
+description: Um exemplo comum de erro ao usar o Left Join
+tags: 'sql'
+---
+
 # Você comete este erro no Left Join?
 
 ![Imagem de capa do artigo](https://media-exp1.licdn.com/dms/image/C4D12AQG4ox7yv7p6EQ/article-cover_image-shrink_423_752/0/1651578328606?e=2147483647&v=beta&t=ZK8wOw_90WeE1xBBqlyhK_iFUYo9tZ1536HyvMVMUQc)
