@@ -2,7 +2,8 @@
 title: Você comete este erro no Left Join?
 published: false
 description: Um exemplo comum de erro ao usar o Left Join
-tags: 'sql'
+tags: sql
+id: 1922322
 ---
 
 # Você comete este erro no Left Join?
