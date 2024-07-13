@@ -1,6 +1,6 @@
 ---
 title: Você comete este erro no Left Join?
-published: false
+published: true
 description: Um exemplo comum de erro ao usar o Left Join
 tags: sql
 id: 1922322
